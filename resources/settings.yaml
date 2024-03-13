@@ -25,7 +25,7 @@ paymentsProcessors:
       - "3.225.112.64"
       - "::ffff:3.225.112.64"
   lnbits:
-    baseURL: https://lnbits.your-domain.com/
+    baseURL: https://lnwallet.app/
     callbackBaseURL: https://nostream.your-domain.com/callbacks/lnbits
   lnurl:
     invoiceURL: https://getalby.com/lnurlp/your-username
